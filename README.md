@@ -34,7 +34,7 @@
 </p>
    
  <h4>
-    <a href="https://Adexa-Ecommerce-Dashboard.vercel.app/">View Demo</a>
+    <a href="https://adexa-ecommerce-dashboard.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/Adexa-Ecommerce-Dashboard">Documentation</a>
   <span> · </span>
