@@ -60,7 +60,6 @@
   * [Tech Stack](#space_invader-tech-stack)
 - [Getting Started](#toolbox-getting-started)
   * [Installation](#gear-installation)
-  * [Run Locally](#running-run-locally)
 - [Media](#milky_way-media)
 - [Contributing](#wave-contributing)
 - [License](#warning-license)
@@ -134,6 +133,18 @@ among these, you can find a fully functional Calendar, a Kanban Board, a WYSIWYG
 `Area.jsx` - `ColorMapping.jsx` - `Bar.jsx` - `Financial.jsx` - `Line.jsx` - `Pie.jsx` - `Pyramid.jsx` - `Stacked.jsx`
 
 This sub-folder contains implementation of customized Charts pages using Syncfusion library. There're eigth different types of charts: Line, Area, Bar, Pie, Financial, Color-Mapping, Pyramid and Stacked using Syncfusion library.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- TechStack -->
+### :space_invader: Tech Stack
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<img src="https://cdn.syncfusion.com/content/images/Logo/Logo_Black_72dpi_without.png" width="10%" />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
